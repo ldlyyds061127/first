@@ -1,4 +1,5 @@
 <img width="577" height="68" alt="image" src="https://github.com/user-attachments/assets/3d9cc898-2646-422a-adc7-5b7271444427" />
+
 ##静态库
 如果把函数代码比作游戏，那静态库就是每个人自己的电脑，函数代码进入静态库好比如游戏保存进自己的电脑。
 ##动态库
